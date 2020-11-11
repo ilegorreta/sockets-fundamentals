@@ -1,8 +1,6 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
-
-Recuerden que deben de reconstruir los módulos de node con el comando
+This is an NodeJS application Chat (: You can send public or private messages to other users and subscribe to particular rooms. Remember to download from the terminal the required dependencies with the following command:
 
 ```
 npm install
